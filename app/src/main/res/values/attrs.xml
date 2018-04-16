@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="strokeWidth" format="float" />
+    <attr name="singlevalue" format="boolean" />
+
+    <declare-styleable name="LinearGraph">
+        <attr name="strokeWidth" />
+        <attr name="singlevalue"/>
+    </declare-styleable>
+</resources>
